@@ -1,1 +1,1 @@
-#### SQL Q&A prep for Google Business Intelligence role
+#### SQL Q&A prep for FAANG, TikTok
